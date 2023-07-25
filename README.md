@@ -59,15 +59,25 @@ ID-System is a simple tk GUI with 2 functionalities :
 ## Resources :
 
  - [RetinaFace Pytorch Implementation](https://github.com/serengil/retinaface)
+
  - [ArcFace Pytorch Implementation](https://github.com/deepinsight/insightface)
+   
  - [ChatGPT to search and fix bugs](https://chat.openai.com/)
+   
  - [Face Anti Spoofing Silent Face](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)
-- [Google Real Time Database](https://firebase.google.com/)
+   
+ - [Google Real Time Database](https://firebase.google.com/)
 
 ## Caution :
 
     
-Note : Most model implementation codes are open-source but have copyrights to certain authors, so I decided not to delete authors' names in codes. In the future projects of Face Recognition, you can use that codes with modifications.  I trained RetinaFace and ArcFace with my `custom dataset + WiderFace(RetinaFace ) and CelebA(ArcFace)`.  So, I can't provide models and weights directly (privacy issues). If you want to use them, please contact with me first **`uacoding01@gmail.com`**.
+Note : Most model implementation codes are open-source but have copyrights to certain authors, so I decided not to delete authors'
+
+names in codes. In the future projects of Face Recognition, you can use that codes with modifications.  I trained RetinaFace and 
+
+ArcFace with my `custom dataset + WiderFace(RetinaFace ) and CelebA(ArcFace)`.  So, I can't provide models and weights directly 
+
+(privacy issues). If you want to use them, please contact with me first **`uacoding01@gmail.com`**.
 
 
 
