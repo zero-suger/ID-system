@@ -57,8 +57,7 @@ ID-System is a simple tk GUI with 2 functionalities :
 
 ## Workflow map :
 
-
-
+![Optional Text](/home/suger01/Desktop/123.png)
 
 
 ## Acknowledgements :
