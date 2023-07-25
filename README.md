@@ -3,7 +3,8 @@
 ID-System is a simple tk GUI with 2 functionalities : 
 
  1. Checking similarity between ID photo and DB embeddings
- 2. Checking Real Time captured picture similarity with ID photo (if ID photo embeddings 'True' in the DB) 
+    
+ 3. Checking Real Time captured picture similarity with ID photo (if ID photo embeddings 'True' in the DB) 
 
 ## Packages :
 
@@ -16,10 +17,14 @@ ID-System is a simple tk GUI with 2 functionalities :
 ## Used Models and Tools :
 
  1. `Python tk` is used to make user GUI
- 2. `RetinaFace` - model to Face Detection task
- 3. `ArcFace` - model to Face Recognition
- 4. `Google Real Time DB`  - database used to save photo embeddings. 
- 5. `Single-GPU RTX 3060` - used to train models 
+    
+ 3. `RetinaFace` - model to Face Detection task
+    
+ 5. `ArcFace` - model to Face Recognition
+    
+ 7. `Google Real Time DB`  - database used to save photo embeddings.
+    
+ 9. `Single-GPU RTX 3060` - used to train models 
 
 *Note : All models and Tools are used with PyTorch (Python) implementation.*
 
