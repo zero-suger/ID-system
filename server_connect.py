@@ -6,7 +6,7 @@ import numpy as np
 def initialize_firebase():
     cred = credentials.Certificate("Firebase-admin-conifs.json")
     firebase_admin.initialize_app(cred, {
-        'databaseURL': 'https://id-verify-3bc2f-default-rtdb.asia-southeast1.firebasedatabase.app/'
+        'databaseURL': ''
     })
 
 def save_user_data(ref, user_data):
