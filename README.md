@@ -57,7 +57,8 @@ ID-System is a simple tk GUI with 2 functionalities :
 
 ## Workflow map :
 
-![Optional Text](https://github.com/zero-suger/ID-system/blob/main/workflow.png)
+<img src="https://github.com/zero-suger/ID-system/blob/main/workflow.png" width="600">
+
 
 
 ## Acknowledgements :
