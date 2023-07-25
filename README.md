@@ -61,7 +61,7 @@ ID-System is a simple tk GUI with 2 functionalities :
 
 
 
-## Resources :
+## Acknowledgements :
 
  - [RetinaFace Pytorch Implementation](https://github.com/serengil/retinaface)
 
@@ -73,7 +73,7 @@ ID-System is a simple tk GUI with 2 functionalities :
    
  - [Google Real Time Database](https://firebase.google.com/)
 
-## Caution :
+## Citation :
 
     
 Note : Most model implementation codes are open-source but have copyrights to certain authors, so I decided not to delete authors'
