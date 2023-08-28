@@ -78,11 +78,15 @@ ID-System is a simple tk GUI with 2 functionalities :
     
 Note : Most model implementation codes are open-source but have copyrights to certain authors, so I decided not to delete authors'
 
-names in codes. In the future projects of Face Recognition, you can use that codes with modifications.  I trained RetinaFace and 
+names in codes and also in the final similarity percentage is ~ 69 %, it is because there is no any image augimentations or pre-processing
 
-ArcFace with my `custom dataset + WiderFace(RetinaFace ) and CelebA(ArcFace)`.  So, I can't provide models and weights directly 
+before comaparing the image (if it is possible, try with them and hopefully you will get higher score, why not?). In the future projects of 
 
-(privacy issues). If you want to use them, please contact with me first **`uacoding01@gmail.com`**.
+Face Recognition, you can use that codes with modifications.  I trained RetinaFace and  ArcFace with my `custom dataset + WiderFace(RetinaFace) 
+
+and CelebA(ArcFace)`.  So, I can't provide models and weights directly  (privacy issues). If you want to use them, please contact with me first 
+
+**`uacoding01@gmail.com`**.
 
 
 
